@@ -17,3 +17,8 @@ nav ul li a{
 nav li:hover{
   background-color: blanchedalmond;
 }
+h1{
+  background-color: bisque;
+  font-size: 2em;
+  color: blueviolet;
+}
